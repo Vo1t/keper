@@ -5994,7 +5994,7 @@
 <<endif>>
 <<if $codeword eq 'ключи'>>
 <<set $E0=289>><<set $A7C=1>><<set $C0D=1>><<set $C1C=1>><<set $D7C=1>><<set $E6C=1>><<set $F0D=1>><<set $F1D=1>><<set $F5B=1>><<set $F7C=1>><<set $F9C=1>><<set $H0D=1>><<set $H2D=1>><<set $H4B=1>><<set $H9C=1>><<set $J0G=1>><<set $J9C=1>><<set $K5B=1>><<set $K6C=1>><<set $K8B=1>><<set $K8C=1>><<set $U0D=1>><<set $L5C=1>><<set $M1D=1>><<set $N6C=1>><<set $N7C=1>><<set $N9C=1>><<set $O5C=1>><<set $O9C=1>><<set $P1D=1>><<set $Q0D=1>><<set $Q9C=1>><<set $R2B=1>><<set $S7C=1>><<set $T0D=1>><<set $T1D=1>><<set $Вейздем=1>><<set $K_temple=1>><<set $K_pirate=1>><<set $Слиток_серебра=1>><<set $Именем_Господа=1>><<set $Золотой_слиток=1>><<set $Рекомендация_короля=1>><<set $Путь_к_замку_гоблинов=1>><<set $Путь_до_пещеры_дракона=1>><<set $Ключи_от_замка_гоблинов=1>> 
-<<goto 'N3'>>
+<<goto 'P2C'>>
 <<endif>>
 <<if $codeword eq 'камень'>>
 <<set $E0=20>><<set $A6C=1>><<set $A7C=1>><<set $C0D=1>><<set $C1C=1>><<set $C7C=1>><<set $C8C=1>><<set $C9C=1>><<set $E6C=1>><<set $F0D=1>><<set $F1D=1>><<set $F7C=1>><<set $G6C=1>><<set $H0D=1>><<set $H4B=1>><<set $H9C=1>><<set $J0G=1>><<set $J9C=1>><<set $K1D=1>><<set $K5B=1>><<set $K6C=1>><<set $K8B=1>><<set $K8C=1>><<set $U0D=1>><<set $T6C=1>><<set $L5C=1>><<set $L8C=1>><<set $M1D=1>><<set $M5C=1>><<set $M7C=1>><<set $M9C=1>><<set $N6C=1>><<set $N9C=1>><<set $O5C=1>><<set $P2D=1>><<set $P8C=1>><<set $Q0D=1>><<set $Q7C=1>><<set $Q9C=1>><<set $R2B=1>><<set $S7C=1>><<set $S9C=1>><<set $T1D=1>><<set $Ключ=1>><<set $K_fire=1>><<set $Берилл=1>><<set $Вейздем=1>><<set $K_glass=1>><<set $K_temple=1>><<set $K_pirate=1>><<set $Корона_короля=1>><<set $Слиток_серебра=1>><<set $Именем_Господа=1>><<set $Красный_камень=1>><<set $Рекомендация_короля=1>><<set $Путь_до_пещеры_дракона=1>> 
